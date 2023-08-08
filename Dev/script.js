@@ -7,3 +7,6 @@
     // should display in a grid
 // I need to be able to click on a city in search history and go back to that entry. 
     // This should be done with local history - maybe display key, then retrieve if entry clicked on? 
+
+const key = 'dbc6cd23ed70942fbebae389affc325e'
+
