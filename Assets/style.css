@@ -1,3 +1,17 @@
 * {
     font-family: 'Wix Madefor Display', sans-serif;
 }
+
+.container-fluid {
+    background-color: lightskyblue;
+}
+
+.btn {
+    background-color: lightyellow;
+    color: black;
+}
+
+.card-header {
+    background-color: lightyellow;
+}
+
