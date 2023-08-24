@@ -3,6 +3,9 @@
 ## Installation
 * No installation steps! This application should be accessible the moment you open up the link and relies on local storage with the assistance of a weather API. 
 
+## Deployment Link
+* Link: https://konawave.github.io/class-weatherDash/
+
 ## Usage
 * The primary resource is this city search panel. You can enter the name of a city and search for it. The current weather will be displayed, as well as the next 5 days of weather. You can also choose to clear your search history so the search box will not provide previously-searched options. 
 *  ![image](./Assets/images/panel.png)
